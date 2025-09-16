@@ -1,0 +1,17 @@
+# Core dependencies for Lane Detection + ADAS Project
+
+# OpenCV for computer vision (image processing, edge detection, drawing, video I/O)
+opencv-python>=4.7.0
+
+# NumPy for numerical operations (slopes, intercepts, polynomial fitting)
+numpy>=1.23.0
+
+# Math is part of Python Standard Library (included with Python) 
+# Added here just for clarity in the project context
+math
+
+# Jupyter Notebook for demos, interactive experiments & visualization
+jupyter>=1.0.0
+
+# Matplotlib (optional but useful for debugging plots or showcasing results in notebooks)
+matplotlib>=3.7.0
