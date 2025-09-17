@@ -49,7 +49,7 @@ Main libraries used:
 
 ---
 
-🎥 Saving Output
+## 🎥 Saving Output
 
 ❤️The script saves the processed output as output.mp4.
 
@@ -62,7 +62,7 @@ Main libraries used:
 
 ---
 
-📊 Example Output
+## 📊 Example Output
 
 ✅Green lines = detected left/right lanes
 
@@ -75,14 +75,17 @@ Main libraries used:
 ✅⚠ Lane departure warning if car drifts
 
 ---
-👨‍💻 Author
+## 👨‍💻 Author
 
 Abhijith Babu
 Passionate about Computer Vision & AI 🚀
 
 📌 GitHub: [https://github.com/AbhijithBabu12]
+
 📌 LinkedIn: [https://www.linkedin.com/in/abhijith-babu-856170201/]
-🚀 Future Improvements
+
+---
+## 🚀 Future Improvements
 
 🔮Use Deep Learning (CNNs, SegNet, DeepLab) for robust lane detection
 
