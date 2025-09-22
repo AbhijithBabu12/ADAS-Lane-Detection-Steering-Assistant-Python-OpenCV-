@@ -17,7 +17,7 @@ It uses **OpenCV + NumPy + Python** to process driving videos and overlay useful
 ---
 
 ## 📂 Project Structure
-├── lane_detection_full.ipynb # Main script /n
+├── lane_detection_full.ipynb # Main script
 
 ├── output.mp4 # Output video (Saved Result)
 
