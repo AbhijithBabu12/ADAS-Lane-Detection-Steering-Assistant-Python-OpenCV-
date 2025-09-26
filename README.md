@@ -54,7 +54,7 @@ Main libraries used:
 ❤️The script saves the processed output as output.mp4.
 
 ---
-🖼 Output Screenshot
+## 🖼 Output Screenshot
 
 <p align="center">
   <img src="images/image.png" alt="Alt text" width="700"/>
